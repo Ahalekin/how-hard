@@ -1,16 +1,11 @@
-# React + Vite
+# How-Hard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+How can you know how to check the hardest achivment on the game?
+How can i beat it??
 
-Currently, two official plugins are available:
+Well the end for the second i really dont know, but the first the answer is
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### THIS IS THE ANSWER HOW HARD
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+It shows how hard is the hardest achivment o that especifc game!
+Just select and *BOOM*
